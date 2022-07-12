@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+.colorStyleClass{
+  color:red;
+}
+.boldStyleClass{
+  font-weight:bold;
+}
+.obliqueStyleClass{
+  font-style: oblique;
+}
+.variantStyleClass{
+  font-variant: small-caps;
+}
